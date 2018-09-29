@@ -10,7 +10,7 @@ In this application, the main page(the root URL)displays a list of "shelves" (i.
 * Want to Read
 * Read
 
-[The status page (and completed app) should look something like this](ss1.png)
+![The status page (and completed app) should look something like this](/relative/path/to/ss1.png?raw=true "Screenshot 1")
 
 Each book has a control that lets you select the shelf for that book. When you select a different shelf, the book moves there. Note that the default value for the control should always be the current shelf the book is in.  
 
